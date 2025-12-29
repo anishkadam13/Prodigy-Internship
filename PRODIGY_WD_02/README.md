@@ -1,6 +1,5 @@
 This project was given by Prodigy Infotech as Task 02.
 
-See Demo
 
 Description  
 This project is a stopwatch web application built using HTML, CSS, and JavaScript.  
