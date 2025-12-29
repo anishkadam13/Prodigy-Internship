@@ -1,6 +1,5 @@
 This project was given by Prodigy Infotech as Task 1.
 
-See Demo
 
 Description  
 This project is a responsive photography landing page designed for a professional photography brand.  
@@ -13,3 +12,4 @@ File Structure
 index.html: The main HTML file for the webpage.  
 style.css: Contains all the styling for layout, responsiveness, and hover effects.  
 images/: Directory containing images used for the hero section, services, and other visual elements.
+
