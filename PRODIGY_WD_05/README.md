@@ -1,6 +1,5 @@
 This project was given by Prodigy Infotech as Task 05.
 
-See Demo
 
 Description  
 This project is a Weather App built using HTML, CSS, and JavaScript.  
