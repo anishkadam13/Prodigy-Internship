@@ -1,6 +1,5 @@
 This project was given by Prodigy Infotech as Task 03.
 
-See Demo
 
 Description  
 This project is a simple and clean Tic Tac Toe web game built using HTML, CSS, and JavaScript.  
